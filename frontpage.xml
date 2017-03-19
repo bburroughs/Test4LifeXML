@@ -118,5 +118,27 @@
             <name>Adi Robertson</name>
         </author>
     </entry>
+    <entry>
+        <published>2017-03-17T17:09:20-04:00</published>
+        <updated>2017-03-17T17:09:20-04:00</updated>
+        <title>Locations</title>
+        <content type="html">
+            &lt;img alt="" src="http://tacos4life.com/wp-content/uploads/2014/12/t4l_logo_med.png" /&gt;
+            
+            
+            
+            &lt;p id="enO7hy"&gt;One of the many things I liked about my last phone, the HTC One, was its lock screen weather widget. In a world of full-featured, minute-by-minute weather apps, it didn’t offer much: just the current temperature, the day’s projected high and low range, and an icon that indicated sun, rain, or snow. But it did exactly what I wanted. I could hit the power button on my way out the door and instantly gauge whether I should be grabbing a heavy coat or a light jacket, and whether I should worry about rain soaking my shoes. I retired the One last year, and months after switching to a shiny new Pixel, I’m constantly asking myself: why won’t Google let me do the same thing?&lt;/p&gt;
+            &lt;p id="D9bWLj"&gt;Google clearly understands that weather widgets are an inordinately...&lt;/p&gt;
+            &lt;p&gt;
+            &lt;a href="http://www.theverge.com/2017/3/17/14959148/google-pixel-no-lock-screen-weather-widget-why"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+            &lt;/p&gt;
+            
+        </content>
+        <link rel="https://raw.githubusercontent.com/bburroughs/Test4LifeXML/master/Screen%20Shot%202017-03-18%20at%2010.23.26%20PM.png"/>
+        <id>http://www.theverge.com/2017/3/17/14959148/google-pixel-no-lock-screen-weather-widget-why</id>
+        <author>
+            <name>Adi Robertson</name>
+        </author>
+    </entry>
     
 </feed>
