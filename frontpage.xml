@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-    <title>The Verge -  All Posts</title>
+    <title>T4L</title>
     <icon>https://cdn0.vox-cdn.com/community_logos/34086/verge-fv.png</icon>
     <updated>2017-03-17T19:29:28-04:00</updated>
-    <id>https://www.theverge.com/rss/full.xml</id>
+    <id>https://www</id>
     <link type="text/html" href="http://www.theverge.com/" rel="alternate"/>
     <entry>
         <published>2017-03-17T19:29:28-04:00</published>
