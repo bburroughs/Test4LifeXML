@@ -6,19 +6,40 @@
     <id>https://www</id>
     <link type="text/html" href="http://www.theverge.com/" rel="alternate"/>
     <entry>
-        <title>Chipotle Steak Taco</title>
-        <content type="html">
-            &lt;img alt="" src="https://s3-media4.fl.yelpcdn.com/bphoto/ZofsN8_NmxwBtMh2bDqf3w/258s.jpg" /&gt;
-        </content>
-        <link rel="alternate" type="text/html" href="sauteed onions and peppers, jack cheese, chipotle aioli, and pico de gallo on a puffy tortilla"/>
-        <id>http://www.theverge.com/2017/3/17/14963990/apple-iphone-applecare-insurance-extended-one-year</id>
-    </entry>
-    <entry>
         <title>Grilled Chicken Taco</title>
         <content type="html">
             &lt;img alt="" src="https://s3-media1.fl.yelpcdn.com/bphoto/6gJKw-CUqpOJ9WciKtqM-w/ls.jpg" /&gt;
         </content>
        <link rel="alternate" type="text/html" href="smothered in house queso and topped with lettuce, sour cream, and pico de gallo; served on a puffy tortilla"/>
+    </entry>
+     <entry>
+        <title>Mango Habanero Taco</title>
+        <content type="html">
+            &lt;img alt="" src="https://pbs.twimg.com/media/CoEM8WDVMAAyqca.jpg" /&gt;
+        </content>
+       <link rel="alternate" type="text/html" href="topped with smoky bacon, poblano salsa, house ranch dressing, lettuce, and jack cheese on a puffy tortilla"/>
+    </entry>
+    <entry>
+        <title>Fried Chicken Taco</title>
+        <content type="html">
+            &lt;img alt="" src="https://pbs.twimg.com/media/CgLgdFOUsAEXXTV.jpg" /&gt;
+        </content>
+        <link rel="alternate" type="text/html" href="southern-style buttermilk fried chicken served on a  our tortilla with lettuce, chipotle aioli, and a drizzle of honey
+1 taco 3.49"/>
+    </entry>
+    <entry>
+        <title>Classic Beef Taco</title>
+        <content type="html">
+            &lt;img alt="" src="https://pbs.twimg.com/media/Cj-j8mXUUAEethG.jpg" /&gt;
+        </content>
+       <link rel="" type="" href="topped with lettuce, sour cream, jack cheese, and pico de gallo; served on a puffy tortilla"/>
+    </entry>
+    <entry>
+        <title>Chiptle Steak Taco</title>
+        <content type="html">
+            &lt;img alt="" src="https://pbs.twimg.com/media/Cqfktb-UAAEnwy7.jpg" /&gt;
+        </content>
+       <link rel="" type="" href="sauteed onions and peppers, jack cheese, chipotle aioli, and pico de gallo on a puffy tortilla"/>
     </entry>
     <entry>
         <title>Ono Shrimp Taco</title>
@@ -26,20 +47,6 @@
             &lt;img alt="" src="https://media-cdn.tripadvisor.com/media/photo-s/0c/4f/0f/4a/20160730-194711-largejpg.jpg" /&gt;
         </content>
        <link rel="alternate" type="text/html" href="our famous pineapple ono sauce, green onions, pineapple, lettuce, and toasted coconut on a  our tortilla"/>
-    </entry>
-    <entry>
-        <title>Classic Nachos</title>
-        <content type="html">
-            &lt;img alt="" src="https://s3-media4.fl.yelpcdn.com/bphoto/7IIKIt7kHQ96O3xgKfqBng/258s.jpg" /&gt;
-        </content>
-       <link rel="" type="" href="refried black beans, queso, pico de gallo, and sour cream"/>
-    </entry>
-    <entry>
-        <title>Chicken Quesadilla</title>
-        <content type="html">
-            &lt;img alt="" src="https://media-cdn.tripadvisor.com/media/photo-s/0f/16/0b/b7/chicken-quesadilla.jpg" /&gt;
-        </content>
-       <link rel="" type="" href="a  our tortilla stuffed with tender marinated and grilled chicken, jack cheese, and queso"/>
     </entry>
     
 </feed>
