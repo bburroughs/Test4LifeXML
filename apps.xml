@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>T4L</title>
+    <icon>https://cdn0.vox-cdn.com/community_logos/34086/verge-fv.png</icon>
+    <updated>2017-03-17T19:29:28-04:00</updated>
+    <id>https://www</id>
+    <link type="text/html" href="http://www.theverge.com/" rel="alternate"/>
+    <entry>
+        <title>Chips and Queso</title>
+        <content type="html">
+            &lt;img alt="" src="https://pbs.twimg.com/media/C5c0mPWVAAECPns.jpg" /&gt;
+        </content>
+        <link rel="" type="" href="unbelievable, award winning cheese dip"/>
+        <id>http://www.theverge.com/2017/3/17/14963990/apple-iphone-applecare-insurance-extended-one-year</id>
+    </entry>
+    <entry>
+        <title>Chips and Salsa</title>
+        <content type="html">
+            &lt;img alt="" src="https://media-cdn.tripadvisor.com/media/photo-s/08/ec/b2/17/tacos-4-life-grill.jpg" /&gt;
+        </content>
+       <link rel="" type="" href="delectable tomatoes, peppers, onions, cilantro, and garlic blended to perfection"/>
+    </entry>
+    <entry>
+        <title>Chips and Guac</title>
+        <content type="html">
+            &lt;img alt="" src="https://media-cdn.tripadvisor.com/media/photo-s/08/ec/b2/05/tacos-4-life-grill.jpg" /&gt;
+        </content>
+       <link rel="" type="" href="fresh avocados at their best: with cilantro and lime"/>
+    </entry>
+    <entry>
+        <title>Utlimate Trio</title>
+        <content type="html">
+            &lt;img alt="" src="https://pbs.twimg.com/media/CqAiB83UEAAr9v7.jpg:large" /&gt;
+        </content>
+       <link rel="" type="" href="the best of all worlds with bottomless chips"/>
+    </entry>
+    
+</feed>
