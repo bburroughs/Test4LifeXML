@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>T4L</title>
+    <icon>https://cdn0.vox-cdn.com/community_logos/34086/verge-fv.png</icon>
+    <updated>2017-03-17T19:29:28-04:00</updated>
+    <id>https://www</id>
+    <link type="text/html" href="http://www.theverge.com/" rel="alternate"/>
+    <entry>
+        <published>2017-03-17T18:05:44-04:00</published>
+        <updated>2017-03-17T18:05:44-04:00</updated>
+        <title>Catering</title>
+        <content type="html">
+            &lt;img alt="" src="https://tacos4life.com/images/catering_section/catering-bbe39c2e.png" /&gt;
+     </content>
+        <link rel="alternate" type="text/html" href="http://tacos4life.com/Tacos-Catering-Menu.pdf"/>
+    </entry>
+    <entry>
+        <published>2017-03-17T17:43:03-04:00</published>
+        <updated>2017-03-17T17:43:03-04:00</updated>
+        <title>Join the Team</title>
+        <content type="html">
+            &lt;img alt="" src="https://tacos4life.com/images/t4l_apply-dc87742f.jpg" /&gt;
+        
+        </content>
+        <link rel="alternate" type="text/html" href="http://tacos4life.com/apply/"/>
+        <id>http://www.theverge.com/circuitbreaker/2017/3/17/14962854/twelve-south-iphone-dock-best-nintendo-switch-stand</id>
+        <author>
+            <name></name>
+        </author>
+    </entry>
+    <entry>
+        <published>2017-03-17T17:09:20-04:00</published>
+        <updated>2017-03-17T17:09:20-04:00</updated>
+        <title>Give to Feed My Starving Children</title>
+        <content type="html">
+            &lt;img alt="" src="https://tacos4life.com/images/giving_section/change-932edb76.jpg" /&gt
+            
+        </content>
+        <link rel="alternate" type="text/html" href="https://give.fmsc.org/checkout/donation?eid=76206"/>
+        <id>http://www.theverge.com/2017/3/17/14959148/google-pixel-no-lock-screen-weather-widget-why</id>
+        <author>
+            <name></name>
+        </author>
+    </entry>
+    <entry>
+        <published>2017-03-17T17:09:20-04:0</published>
+        <updated>2017-03-17T17:09:20-04:00</updated>
+        <title>Mobilepacks</title>
+        <content type="html">
+            &lt;img alt="" src="https://c394391.ssl.cf2.rackcdn.com/1466519250.jpg" /&gt;
+            
+            
+            
+            &lt;p id="enO7hy"&gt;One of the many things I liked about my last phone, the HTC One, was its lock screen weather widget. In a world of full-featured, minute-by-minute weather apps, it didn’t offer much: just the current temperature, the day’s projected high and low range, and an icon that indicated sun, rain, or snow. But it did exactly what I wanted. I could hit the power button on my way out the door and instantly gauge whether I should be grabbing a heavy coat or a light jacket, and whether I should worry about rain soaking my shoes. I retired the One last year, and months after switching to a shiny new Pixel, I’m constantly asking myself: why won’t Google let me do the same thing?&lt;/p&gt;
+            &lt;p id="D9bWLj"&gt;Google clearly understands that weather widgets are an inordinately...&lt;/p&gt;
+            &lt;p&gt;
+            &lt;a href="http://www.theverge.com/2017/3/17/14959148/google-pixel-no-lock-screen-weather-widget-why"&gt;Continue reading&amp;hellip;&lt;/a&gt;
+            &lt;/p&gt;
+            
+        </content>
+        <link rel="alternate" type="text/html" href="http://tacos4life.org/conwaymp2017/"/>
+        <id>http://www.theverge.com/2017/3/17/14959148/google-pixel-no-lock-screen-weather-widget-why</id>
+        <author>
+            <name></name>
+        </author>
+    </entry>
+    
+    
+</feed>
