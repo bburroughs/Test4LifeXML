@@ -5,16 +5,11 @@
     <updated>2017-03-17T19:29:28-04:00</updated>
     <id>https://www</id>
     <link type="text/html" href="http://www.theverge.com/" rel="alternate"/>
-    <entry>
-        
-        <title>Summer Tacos!</title>
+    <entry><title>Summer Tacos!</title>
         <content type="html">
             &lt;img alt="" src="https://scontent-dft4-1.xx.fbcdn.net/v/t1.0-9/18921935_1772355842789573_5444711168019674482_n.png?oh=cf5ff5b666c707ee35f2f4e0d0723d36&oe=599D28EC" /&gt;
-           
         </content>
-        <link rel="alternate" type="text/html" href="http://tacos4life.com"/>
-        
-    </entry>
+        <link rel="alternate" type="text/html" href="http://tacos4life.com"/></entry>
     
     <entry>
         <title>Catering</title>
